@@ -4,4 +4,4 @@ from django.apps import AppConfig
 
 
 class MediumEditorConfig(AppConfig):
-    name = 'medium editor'
+    name = 'mediumeditor'
